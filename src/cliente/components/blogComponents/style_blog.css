@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* color: wheat; */
+}
+body {
+  background-color: var(--light-beige);
+  font-family: "Grandstander", cursive;
+}
+
+.navbar {
+  background: rgb(32, 31, 31);
+  color: black;
+}
+#parallax-image {
+  background-image: url(./../../../assets/img/blog_fondo-1.jpg);
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#parallax-image1 {
+  background-image: url(./../../../assets/img/blog_moquillo-portada.jpg);
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#parallax-image2 {
+  background-image: url(./../../../assets/img/blog_pata-perro-1.jpg);
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#parallax-image3 {
+  background-image: url(./../../../assets/img/blog_rabia-en-perros-2-620x331.jpg);
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#parallax-image4 {
+  background-image: url(./../../../assets/img/blog_conservar-bien-alimento-perros.jpg);
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#parallax-image5 {
+  background-image: url(./../../../assets/img/blog_botiquin+perro.jpg);
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#parallax-image6 {
+  background-image: url(./../../../assets/img/blog_fondo-2.jpg);
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#parallax-image7 {
+  background-image: url(./../../../assets/img/blog_calendario-vacunas-perros-1.jpg);
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar-brand {
+  font-size: 60px;
+}
+.color {
+  background-color: #8e6749;
+}
+
+.title {
+  margin-right: 150px;
+  margin-left: 100px;
+}
+.container {
+  /* background: white; */
+  padding: 60px;
+}
+.modal-content {
+  /* background-color: white; */
+  border-radius: 10px;
+  border: #8e6749;
+  padding: 20px;
+}
+/* .btn {
+  color: wheat;
+  border: 2px solid wheat;
+}
+.btn:hover {
+  background-color: wheat;
+  color: #8e6749;
+} */
